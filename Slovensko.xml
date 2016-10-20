@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stat nazov="Slovensko">
+    <kraj nazov="Banskobystrický" predseda="Marian Kotleba">
+        <okres nazov="Banská Bystrica">
+            <kod>601</kod>
+            <obyvatelstvo>110 920</obyvatelstvo>
+            <rozloha>809.43</rozloha>
+        </okres>
+        <okres nazov="Lučenec">
+            <kod>606</kod>
+            <obyvatelstvo>74 106</obyvatelstvo>
+            <rozloha>825.59</rozloha>
+        </okres>
+    </kraj>
+    <kraj nazov="Bratislavský" predseda="Pavol Frešo">
+        <okres nazov="Malacky">
+            <kod>106</kod>
+            <obyvatelstvo>70 964</obyvatelstvo>
+            <rozloha>949.46</rozloha>
+        </okres>
+        <okres nazov="Pezinok">
+            <kod>107</kod>
+            <obyvatelstvo>61 504</obyvatelstvo>
+            <rozloha>375.54</rozloha>
+        </okres>
+    </kraj>
+    <kraj nazov="Košický" predseda="Zdenko Trebuľa">
+        <okres nazov="Gelnica">
+            <kod>801</kod>
+            <obyvatelstvo>31 627</obyvatelstvo>
+            <rozloha>584.43</rozloha>
+        </okres>
+        <okres nazov="Michalovce">
+            <kod>807</kod>
+            <obyvatelstvo>110 712</obyvatelstvo>
+            <rozloha>1 019.26</rozloha>
+        </okres>
+    </kraj>
+    <kraj nazov="Nitriansky" predseda="Milan Belica">
+        <okres nazov="Nitra">
+            <kod>403</kod>
+            <obyvatelstvo>160 381</obyvatelstvo>
+            <rozloha>870.73</rozloha>
+        </okres>
+        <okres nazov="Levice">
+            <kod>402</kod>
+            <obyvatelstvo>112 874</obyvatelstvo>
+            <rozloha>1 551.14</rozloha>
+        </okres>
+    </kraj>
+    <kraj nazov="Prešovský" predseda="Peter Chudík">
+        <okres nazov="Bardejov">
+            <kod>701</kod>
+            <obyvatelstvo>77 806</obyvatelstvo>
+            <rozloha>936.17</rozloha>
+        </okres>
+        <okres nazov="Humenné">
+            <kod>702</kod>
+            <obyvatelstvo>63 204</obyvatelstvo>
+            <rozloha>754.24</rozloha>
+        </okres>
+    </kraj>
+    <kraj nazov="Žilinský" predseda="Juraj Blanár">
+        <okres nazov="Žilina">
+            <kod>511</kod>
+            <obyvatelstvo>156 411</obyvatelstvo>
+            <rozloha>815.08</rozloha>
+        </okres>
+        <okres nazov="Martin">
+            <kod>506</kod>
+            <obyvatelstvo>96 761</obyvatelstvo>
+            <rozloha>735.65</rozloha>
+        </okres>
+    </kraj>
+</stat>
