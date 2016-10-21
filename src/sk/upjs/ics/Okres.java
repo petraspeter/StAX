@@ -51,6 +51,6 @@ public class Okres {
     
     
     public String vypis() {
-        return "Okres: "+getNazovOkresu()+", kod: "+getKod()+", pocet obyvatelov: "+getObyvatelstvo()+", rozloha: "+getRozloha();
+        return "Okres: "+getNazovOkresu()+", kod: "+getKod()+", pocet obyvatelov: "+getObyvatelstvo()+", rozloha: "+getRozloha()+"km^2";
     }
 }
